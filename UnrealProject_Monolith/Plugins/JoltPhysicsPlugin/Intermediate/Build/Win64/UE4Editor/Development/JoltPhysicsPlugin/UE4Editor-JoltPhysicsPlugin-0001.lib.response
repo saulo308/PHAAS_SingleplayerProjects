@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-JoltPhysicsPlugin-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Artigo_SBGames\PhysicsServiceGame_POC_2\UnrealProject_Local\Intermediate\Build\Win64\PhysicsAASEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Artigo_SBGames\PhysicsServiceGame_POC_2\UnrealProject_Local\Plugins\JoltPhysicsPlugin\Intermediate\Build\Win64\UE4Editor\Development\JoltPhysicsPlugin\JoltPhysicsPlugin.cpp.obj"
+"D:\Artigo_SBGames\PhysicsServiceGame_POC_2\UnrealProject_Local\Plugins\JoltPhysicsPlugin\Intermediate\Build\Win64\UE4Editor\Development\JoltPhysicsPlugin\Default.rc2.res"
+/OUT:"D:\Artigo_SBGames\PhysicsServiceGame_POC_2\UnrealProject_Local\Plugins\JoltPhysicsPlugin\Intermediate\Build\Win64\UE4Editor\Development\JoltPhysicsPlugin\UE4Editor-JoltPhysicsPlugin-0001.lib"

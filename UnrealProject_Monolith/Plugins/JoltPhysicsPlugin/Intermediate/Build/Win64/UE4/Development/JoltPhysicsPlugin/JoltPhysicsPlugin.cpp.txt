@@ -1,0 +1,2 @@
+D:\Artigo_SBGames\PhysicsServiceGame_POC_2\UnrealProject_Local\Plugins\JoltPhysicsPlugin\Intermediate\Build\Win64\UE4\Development\JoltPhysicsPlugin\Definitions.JoltPhysicsPlugin.h
+D:\Artigo_SBGames\PhysicsServiceGame_POC_2\UnrealProject_Local\Plugins\JoltPhysicsPlugin\Source\JoltPhysicsPlugin\Public\JoltPhysicsPlugin.h
